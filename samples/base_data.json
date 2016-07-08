@@ -1,0 +1,37 @@
+
+{
+	"timestamp": 1468012460,
+	"method": "ECIA.WebApi.HomePlugin.HomeController.GetAllHomes",
+	"effectiveTime": 200,
+	"completeTime": 310
+},
+{
+	"timestamp": 1468013460,
+	"method": "ECIA.WebApi.HomePlugin.HomeController.GetAllHomes",
+	"effectiveTime": 200,
+	"completeTime": 310
+},
+{
+	"timestamp": 1468015460,
+	"method": "ECIA.WebApi.HomePlugin.HomeController.GetHome",
+	"effectiveTime": 100,
+	"completeTime": 110
+},
+{
+	"timestamp": 1468022460,
+	"method": "ECIA.WebApi.HomePlugin.HomeController.GetAllHomes",
+	"effectiveTime": 200,
+	"completeTime": 310
+},
+{
+	"timestamp": 1468062460,
+	"method": "ECIA.WebApi.HomePlugin.HomeController.GetHome",
+	"effectiveTime": 110,
+	"completeTime": 130
+},
+{
+	"timestamp": 1468512460,
+	"method": "ECIA.WebApi.HomePlugin.HomeController.GetAllHomes",
+	"effectiveTime": 250,
+	"completeTime": 400
+},
