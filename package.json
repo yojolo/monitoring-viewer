@@ -1,0 +1,23 @@
+{
+  "name": "monitor-viewer",
+  "version": "1.0.0",
+  "description": "A little NodeJS viewer for json formatted monitoring data.",
+  "main": "App.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yojolo/monitoring-viewer.git"
+  },
+  "author": "Yoann LE MOUEL <contact@ylemouel.me>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/yojolo/monitoring-viewer/issues"
+  },
+  "homepage": "https://github.com/yojolo/monitoring-viewer#readme"
+}
